@@ -14,7 +14,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "WpBerlin\\MeetupApi\\": "web/plugins/meetup-api/src"
+      "WpBerlin\\MeetupApi\\": "web/plugins/meetup-api/src",
       "WpBerlin\\Website\\Theme\\Controller\\": "web/assets/themes/wp-berlin/controller"
     }
   },
